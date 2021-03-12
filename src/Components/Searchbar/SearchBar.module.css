@@ -1,0 +1,14 @@
+header {
+  background-color: #4671d5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.formContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.inputForm {
+  width: 300px;
+}
